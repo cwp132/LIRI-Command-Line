@@ -1,0 +1,27 @@
+{
+  "name": "liri-command-line",
+  "version": "1.0.0",
+  "description": "\"Liri command line app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwp132/LIRI-Command-Line.git"
+  },
+  "keywords": [],
+  "author": "\"Christian Petersen\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwp132/LIRI-Command-Line/issues"
+  },
+  "homepage": "https://github.com/cwp132/LIRI-Command-Line#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.2.2",
+    "node-spotify-api": "^1.0.9"
+  }
+}
