@@ -1,7 +1,7 @@
 # LIRI-Command-Line
 
 ## Spotify
-![spotify demo](https://github.com/cwp132/LIRI-Command-Line/blob/master/bandscap.png?raw=true)
+![spotify demo](https://github.com/cwp132/LIRI-Command-Line/blob/master/spotifycap.png?raw=true)
 
 ## Bands in Town
 ![Bands in town demo](https://github.com/cwp132/LIRI-Command-Line/blob/master/bandscap.png?raw=true)
